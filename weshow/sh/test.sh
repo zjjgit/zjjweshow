@@ -1,6 +1,6 @@
-#!bin/bash
+#!/bin/bash
 echo 'hello world!'
 your_name='dfgfg'
-name = 'zhoujiajie'
+name_g='zhoujiajie'
 echo $your_name
-echo $name
+echo $name_g
